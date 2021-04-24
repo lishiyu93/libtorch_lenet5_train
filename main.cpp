@@ -76,7 +76,7 @@ main(int argc,
     net->to(device);
     net->eval();
     torch::Tensor tmp = torch::ones({1, 1, 32, 32}).to(device);
-    //net->train();
+    net->train();
     torch::Tensor out = net->forward(tmp);
     std::cout << "lenet out shape: " << out.size(1) << std::endl;
     std::cout << "lenet out: " << out << std::endl;
