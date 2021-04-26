@@ -6,9 +6,9 @@ A libtorch training of lenet5 example.一个基于libtorch（pytorch的C++版本
 3. OpenCV v3.4.0
 
 ## CMake说明
-1）设置工程名：#1
-2）设置OpenCV路径：#2---#6
-3）设置Debug版libtorch库路径：#7---#9
+1.设置工程名：#1
+2.设置OpenCV路径：#2---#6
+3.设置Debug版libtorch库路径：#7---#9
 4）设置CUDA路径：#10
 5）配置OpenCV包含目录和库目录：#11
 6）配置libtorch包含目录和库目录：#12
@@ -19,8 +19,8 @@ A libtorch training of lenet5 example.一个基于libtorch（pytorch的C++版本
 11）配置OpenCV的**debug版**附加依赖项：#18，#19
 
 ## 资源
-[libtorch1.6_Debug](https://download.csdn.net/download/lishiyu93/18143018);
-[libtorch1.6_Release](https://download.csdn.net/download/lishiyu93/18143024);
-[待上传OpenCV3.4.0]()
+1.[libtorch1.6_Debug](https://download.csdn.net/download/lishiyu93/18143018)
+2.[libtorch1.6_Release](https://download.csdn.net/download/lishiyu93/18143024)
+3.[待上传OpenCV3.4.0]()
 ## 使用说明
 [说明文档](https://blog.csdn.net/lishiyu93/article/details/116096823)
