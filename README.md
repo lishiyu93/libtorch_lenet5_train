@@ -19,8 +19,8 @@ A libtorch training of lenet5 example.一个基于libtorch（pytorch的C++版本
 11）配置OpenCV的**debug版**附加依赖项：#18，#19
 
 ## 资源
-[libtorch1.6_Debug](https://download.csdn.net/download/lishiyu93/18143018)
-[libtorch1.6_Release](https://download.csdn.net/download/lishiyu93/18143024)
+[libtorch1.6_Debug](https://download.csdn.net/download/lishiyu93/18143018);
+[libtorch1.6_Release](https://download.csdn.net/download/lishiyu93/18143024);
 [待上传OpenCV3.4.0]()
 ## 使用说明
 [说明文档](https://blog.csdn.net/lishiyu93/article/details/116096823)
